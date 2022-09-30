@@ -21,6 +21,14 @@ After cloning the repository and installing the necessary dependencies, run npm 
 
 ### Built-With
 
+
+    Node JS
+    NoSQL - MongoDB
+    Mongoose
+    Express
+    JavaScript
+
+
 ### Demonstrations
 
 ## Author
