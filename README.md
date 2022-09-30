@@ -13,6 +13,8 @@ MongoDB is used in this application to store large amounts of unstructured data,
 
 ## Installation
 
+Install the required dependencies by running 'npm i' on the cloned application, then launch the application using "npm start".
+
 ### Usage
 
 ### Built-With
