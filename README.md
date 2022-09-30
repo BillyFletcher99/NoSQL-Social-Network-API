@@ -17,6 +17,8 @@ Install the required dependencies by running 'npm i' on the cloned application, 
 
 ### Usage
 
+After cloning the repository and installing the necessary dependencies, run npm start to use on a local server 3001.
+
 ### Built-With
 
 ### Demonstrations
