@@ -30,6 +30,3 @@ After cloning the repository and installing the necessary dependencies, run npm 
 
 
 ### Demonstrations
-
-## Author
-
