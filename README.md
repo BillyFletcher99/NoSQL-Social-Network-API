@@ -2,7 +2,6 @@
 
 ## Users can create notes or code snippets with or without an internet connection and then retrieve them reliably for later use in this web text editor. Through the integrated service worker and cache API, the application remains fully functional even when no internet connection is available. Offline access to visited pages is possible even with this application.
 
-MongoDB is used in this application to store large amounts of unstructured data, Express.js provides routing, and Mongoose ODM provides data management
 
 ## Table of Contents
 
